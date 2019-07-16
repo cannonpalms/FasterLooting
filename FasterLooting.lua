@@ -2,7 +2,7 @@
 -- Name: FasterLooting
 -- Author: cannon
 -- Description: Auto loots all items without the delay currently in Classic
--- Version: 0.0.1
+-- Version: 1.0.0
 
 -- Time delay
 local tDelay = 0
