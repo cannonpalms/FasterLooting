@@ -10,6 +10,10 @@ FasterLooting will only act on auto-loot commands. That is, FasterLooting will o
 	1. The player has auto-loot enabled in his/her game settings and he/she uses `right-click` a lootable object, or
 	2. The player does *not* have auto-loot enabled in his/her game settings uses his/her auto-loot keybind (`shift+right-click`, by default) on a lootable object
 
+#### Q: The loot window appears, and doesn't seem to be any quicker at taking item(s)?
+
+Disable Open Loot Window at Mouse if it's enabled.
+
 #### Q: I believe I found a bug, would like to request a new feature, or have a question that isn't answered here.
 
 For all questions, comments, and/or concerns, please feel free to open an issue on this repository and I will get back to you as quickly as I can.
