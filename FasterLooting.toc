@@ -1,6 +1,6 @@
-## Interface: 11302
+## Interface: 11303
 ## Title: FasterLooting
 ## Author: cannon
 ## Notes: Auto loots all items without the delay currently in Classic
-## Version: 1.1.1
+## Version: 1.1.2
 FasterLooting.lua
